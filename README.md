@@ -18,9 +18,6 @@ Para realizar a execução do arquivo, o usuário precisa abrir o terminal, entr
 
 
 ## 🛠 Linguagens Utilizadas
-[![node-js](https://img.shields.io/badge/nodejs-3C873A?style=for-the-badge&logo=nodejs&logoColor=green)](https://img.shields.io/badge/nodejs-3C873A?style=for-the-badge&logo=nodejs&logoColor=green) 
-
-
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 

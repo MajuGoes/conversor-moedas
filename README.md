@@ -1,11 +1,11 @@
 
-# Conversor de moedas com API FreeCurrency
+# CLI Conversor de moedas com API FreeCurrency
 
 
 
 
 ## 🚀 Sobre o Projeto
-Trata-se de um sistema usado para conveter valores de moedas, isando a API https://freecurrencyapi.com.
+Trata-se de um CLI usado para conveter valores de moedas, isando a API https://freecurrencyapi.com.
 
 # Como funciona
 Para executar o sistema, é necessário que  usuário conheça as moedas suportadas pela API, onde ele pode encontrar a lista em https://freecurrencyapi.com/docs/currency-list
